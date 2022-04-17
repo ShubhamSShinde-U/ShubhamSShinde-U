@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Shinde</h1>
 <h3 align="center">A passionate Coder from India</h3>
-<img src="https://www.bing.com/images/search?view=detailV2&ccid=e%2flMapa9&id=7790A1698F2FF6F902206EF9F5B300C6A9356928&thid=OIP.e_lMapa9wiL8l2FK7G0b_QHaFC&mediaurl=https%3a%2f%2fwallpapertag.com%2fwallpaper%2ffull%2f7%2f5%2f6%2f551248-anime-warrior-wallpaper-1920x1308-for-mobile.jpg&exph=1308&expw=1920&q=warrior+animated+&simid=608031038560171295&FORM=IRPRST&ck=239052835577E29BD48985026C28F1E9&selectedIndex=7&ajaxhist=0&ajaxserp=0" alt="Coding" width="500" height="600">
+<img src="https://www.bing.com/images/search?view=detailV2&ccid=AvEWO%2f85&id=AAD1C2B27896E1AD034F34B98BDD3388BEEBE6C1&thid=OIP.AvEWO_85afzsjG1WdkR0VwHaFj&mediaurl=https%3a%2f%2fmedia1.tenor.com%2fimages%2f02f1163bff3969fcec8c6d5676447457%2ftenor.gif%3fitemid%3d5063904&exph=300&expw=400&q=samurai+warrior+animated+gif&simid=608002365353062935&FORM=IRPRST&ck=E3EED07097BEC24219C4EBF5E272A87A&selectedIndex=3&ajaxhist=0&ajaxserp=0" alt="Ninja" width="500" height="600">
 
 - 🔭 I’m currently working on **JAVA**
 
@@ -21,6 +21,8 @@
 <a href="https://twitter.com/@shubham82729190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shubham82729190" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shubham-shinde-1132751a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-shinde-1132751a1" height="30" width="40" /></a>
 <a href="https://instagram.com/s_s_s_4_5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_s_s_4_5" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sss_u" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sss_u" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@shubhamshindec1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shubhamshindec1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
