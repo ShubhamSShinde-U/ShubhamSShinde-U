@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Shinde</h1>
 <h3 align="center">A passionate Coder from India</h3>
-<img align="right" alt="coding" width="400" src="https://qph.fs.quoracdn.net/main-qimg-bb7b8ab6abe40e7631a8becd27277bba">
+<img align="right" alt="coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=tBZ%2f023N&id=5958F07935BBF836E03FD242E0F07A741C23E1DC&thid=OIP.tBZ_023NkJSGYeHJgmzGOQAAAA&mediaurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2f10UF3Ni84KemnC%2fgiphy.gif&exph=211&expw=400&q=warrior+animated+gif&simid=607996760428605804&FORM=IRPRST&ck=5E9DE0CC1FAB6F2FC8AA40290A151393&selectedIndex=90&ajaxhist=0&ajaxserp=0">
 
 - 🔭 I’m currently working on **JAVA**
 
