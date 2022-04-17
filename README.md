@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Shinde</h1>
 <h3 align="center">A passionate Coder from India</h3>
-<img src="https://www.bing.com/images/search?view=detailV2&ccid=AvEWO%2f85&id=AAD1C2B27896E1AD034F34B98BDD3388BEEBE6C1&thid=OIP.AvEWO_85afzsjG1WdkR0VwHaFj&mediaurl=https%3a%2f%2fmedia1.tenor.com%2fimages%2f02f1163bff3969fcec8c6d5676447457%2ftenor.gif%3fitemid%3d5063904&exph=300&expw=400&q=samurai+warrior+animated+gif&simid=608002365353062935&FORM=IRPRST&ck=E3EED07097BEC24219C4EBF5E272A87A&selectedIndex=3&ajaxhist=0&ajaxserp=0" alt="Ninja" width="500" height="600">
+<img src="https://freepngimg.com/thumb/samurai/30860-2-samurai-transparent.png" align="right" alt="Ninja" width="500" height="600">
 
 - 🔭 I’m currently working on **JAVA**
 
