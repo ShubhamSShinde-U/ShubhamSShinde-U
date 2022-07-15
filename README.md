@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Shinde</h1>
 <h3 align="center">A passionate Coder from India</h3>
 <img src="https://freepngimg.com/thumb/samurai/30860-2-samurai-transparent.png" align="right" alt="Ninja" width="500" height="600">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsshinde-u&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsshinde-u" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamsshinde-u" alt="shubhamsshinde-u" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@shubham82729190" target="blank"><img src="https://img.shields.io/twitter/follow/@shubham82729190?logo=twitter&style=for-the-badge" alt="@shubham82729190" /></a> </p>
 
