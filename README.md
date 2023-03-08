@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/@shubham82729190" target="blank"><img src="https://img.shields.io/twitter/follow/@shubham82729190?logo=twitter&style=for-the-badge" alt="@shubham82729190" /></a> </p>
 
-- 🔭 I’m currently working on **JAVA**
+- 🔭 I’m currently working on **DART**
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **Android development**
+- 👯 I’m looking to collaborate on **Flutter development**
 
 - 🤝 I’m looking for help with **Blockchain**
 
